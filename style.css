@@ -50,12 +50,17 @@ body {
     background-color: #16CFF8;
     padding: 24px 0;
     text-align: center;
-    color: #383D58;
+    color: #595e79;
+}
+
+.professoras-todas {
+    display: flex;
+    justify-content: center;
 }
 
 .professoras-div {
     text-align: center;
-    padding: 24px 0;
+    padding: 24px 36px;
 }
 
 .professoras-titulo {
