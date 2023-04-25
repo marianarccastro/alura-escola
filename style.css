@@ -16,8 +16,28 @@
     width: 30%;
 }
 
-.cabecalho-lista-item{
+.cabecalho-lista-item {
     display: inline-block;
     margin: 0 16px;
     font-size: 24px;
+}
+
+.disciplina-div-conteudo {
+    width: 35%;
+}
+
+.disciplina {
+    background-image: linear-gradient(#383D58,#16CFF8);
+    color: white;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.disciplina-titulo {
+    padding: 24px 0;
+}
+
+.disciplina-imagem {
+ width: 25%;
 }
