@@ -3,6 +3,10 @@
     padding: 0;
 }
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 .cabecalho {
     background-color: #383D58;
     color: #FFFFFF;
@@ -39,5 +43,30 @@
 }
 
 .disciplina-imagem {
- width: 25%;
+    width: 25%;
+}
+
+.professoras {
+    background-color: #16CFF8;
+    padding: 24px 0;
+    text-align: center;
+    color: #383D58;
+}
+
+.professoras-div {
+    text-align: center;
+    padding: 24px 0;
+}
+
+.professoras-titulo {
+    font-size: 36px;
+}
+
+.professoras-imagem {
+    width: 240px;
+}
+
+.professoras-icone {
+    width: 24px;
+    padding: 8px 4px;
 }
