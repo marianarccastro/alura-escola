@@ -75,3 +75,23 @@ body {
     width: 24px;
     padding: 8px 4px;
 }
+
+.turmas {
+    background-image: linear-gradient(#16CFF8, #ffffff);
+    padding: 24px 0;
+    text-align: center;
+    color: #595e79;
+}
+
+.turmas-titulo {
+    font-size: 36px;
+}
+
+.turmas-todas {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+}
+
+.turmas-imagem {
+    padding: 12px;
+}
